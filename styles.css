@@ -5,7 +5,13 @@ h1 {
 
 p {
     font-size: 36px;
-    color: black;
+    color: red;
+}
+
+div {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: teal;
+    font-size: 53px;
 }
 
 body {
